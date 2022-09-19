@@ -1,0 +1,16 @@
+
+______________XYZ AIRLINES____________
+
+________________TICKETS_______________
+
+--------------------------------------
+Customer ID: 1874
+Customer NAME: Shivam
+Customer AGE: 19
+
+
+	DESCRIPTION		
+
+
+Destination :		USA
+Flight Cost :		32800

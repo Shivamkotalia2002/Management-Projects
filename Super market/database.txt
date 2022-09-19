@@ -1,0 +1,5 @@
+
+ 1 Shoes 2500 10
+ 2 Watch 5000 15
+ 3 Shirt 1500 5
+ 4 Jeans 4300 7
